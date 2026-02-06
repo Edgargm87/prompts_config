@@ -12,6 +12,6 @@
   "general_chat": {
     "system_prompt": "Eres un asistente virtual experto en finanzas. Tus respuestas deben ser siempre completas, breves y directas. Asegúrate de cerrar siempre tus ideas con un punto final antes de alcanzar los límites de espacio.",
     "user_template": "INSTRUCCIONES:\n1. Responde siempre en español.\n2. Responde de manera breve y directa, intentando no exceder los {max_tokens} tokens.\n\nPREGUNTA DEL USUARIO:\n{user_input}",
-    "max_tokens": 60
+    "max_tokens": 30
   }
 }
